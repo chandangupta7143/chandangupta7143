@@ -1,31 +1,79 @@
-<h1 align="center">Hi 👋, I'm Chandan Gupta</h1>
-<h3 align="center">Frontend Developer | DSA Enthusiast | Java & C++ Coder | Git & Kali Linux Explorer | Cybersecurity Learner</h3>
-<img align="right" alt="coding" width="400" src="https://gifdb.com/images/thumbnail/cyber-robot-friends-xq6ap2eeay4ceqdw.webp">
+<h1 align="center">🚀 Welcome to the Terminal of Chandan Gupta</h1>
+<h3 align="center">A Curious Coder | Frontend  Devloper | Java & C++ Builder | Cybersecurity Explorer | DSA Enthusiast</h3>
+
+<<div align="center">
+    <div style="background-color: #0f0f0f; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px #00ffcc; display: inline-block;">
+      <h2 style="color: #00ffcc; font-family: 'Courier New', Courier, monospace;"></h2>
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker Vibes" style="border-radius: 10px; border: 2px solid #00ffcc; margin-top: 10px;" />
+      <p style="color: #cccccc; font-family: 'Courier New', Courier, monospace; margin-top: 15px;">
+        I don’t just write code... I **defend**, I **detect**, I **develop**.<br />
+        Frontend. Backend. Cybersecurity. All in one terminal. ⚔️
+      </p>
+    </div>
+  </div>
+  
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chandangupta7143&label=Profile%20views&color=0e75b6&style=flat" alt="chandangupta7143" /> </p>
 
-- 🔭 I’m currently working on [portfolio](https://chandangupta7143.github.io/PORTFOLIO/)
 
-- 🌱 I’m currently learning **Data Structure and Algorithm**
 
-- 👨‍💻 All of my projects are available at [https://chandangupta7143.github.io/PORTFOLIO/](https://chandangupta7143.github.io/PORTFOLIO/)
 
-- 📫 How to reach me **chandangupta21092005@gmail.com**
+<h1>🧠 About Me</h1> 
 
-- ⚡ Fun fact **I am Very serious person.**
+<b style="font-family: 'Roboto', sans-serif; font-size: 28px; color: #333333; line-height: 1.6;">
+    Hey there, I’m Chandan Gupta, a passionate tech enthusiast with a sharp focus on building clean, responsive web interfaces, writing efficient backend code in Java & C++, and diving deep into the world of cybersecurity and ethical hacking.
+  </b>
+  <br><br>
+<b>
+    <b>
+        <ul style="list-style-type: none; padding: 0; color: #333333; font-family: 'Roboto', sans-serif; line-height: 1.8;">
+            <li style="font-size: 18px; margin-bottom: 10px;">
+                👨‍🎓 <strong>Currently pursuing B.Tech CSE at Lovely Professional University</strong> — Taking over the world of tech, one code at a time!
+            </li>
+            <li style="font-size: 18px; margin-bottom: 10px;">
+                🎯 <strong>GeeksforGeeks Certified in Data Structures & Algorithms</strong> — Mastering the art of solving complex problems with elegance.
+            </li>
+            <li style="font-size: 18px; margin-bottom: 10px;">
+                🏦 <strong>Built a Bank Management System</strong> — now working on a School Management System in Java. Projects on my mind, solutions in code!
+            </li>
+            <li style="font-size: 18px; margin-bottom: 10px;">
+                🌐 <strong>My Portfolio Website:</strong> <a href="https://chandangupta7143.github.io/PORTFOLIO/" target="_blank" style="color: #ffcc00; text-decoration: none; font-weight: bold;">Check it out here</a> — Experience my projects and ideas brought to life.
+            </li>
+           
+        </ul>
+        
+      
+  
+<h1>🔧 Tech Stack I Use</h1>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/chandan-gupta7143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chandan-gupta7143" height="30" width="40" /></a>
-<a href="https://instagram.com/chandan.gupta7143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chandan.gupta7143" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/chandangupta2101" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="chandangupta2101" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/chandangupta7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="chandangupta7" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@chandangupta21092005" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@chandangupta21092005" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,cpp,c,html,css,js,react,git,mysql,linux,python" />
+</p>
+Challenges I'm Tackling<br>
+
+- Sharpening problem-solving for Placements & coding contests<br>
+- Improving communication & soft skills<br>
+- Becoming a Frontend + Backend + Security combo dev<br>
+- Turning ideas into real-world products & patents<br>
+
+<h1> 📈 GitHub Stats</h1>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangupta7143&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chandangupta7143&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandangupta7143&layout=compact&theme=tokyonight" width="48%" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chandangupta7143&show_icons=true&locale=en&layout=compact" alt="chandangupta7143" /></p>
+<h1>🌐 Connect With Me</h1>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chandangupta7143&show_icons=true&locale=en" alt="chandangupta7143" /></p>
+<p align="center">
+  <a href="https://linkedin.com/in/chandan-gupta7143"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://instagram.com/chandan.gupta7143"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram" /></a>
+  <a href="https://www.hackerrank.com/chandangupta2101"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank" /></a>
+  <a href="https://leetcode.com/chandangupta7"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
+  <a href="https://www.hackerearth.com/@chandangupta21092005"><img src="https://img.shields.io/badge/HackerEarth-323754?style=for-the-badge&logo=hackerearth" /></a>
+</p>
+
