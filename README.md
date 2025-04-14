@@ -1,7 +1,7 @@
 <h1 align="center">🚀 Welcome to the Terminal of Chandan Gupta</h1>
 <h3 align="center">A Curious Coder | Frontend  Devloper | Java & C++ Builder | Cybersecurity Explorer | DSA Enthusiast</h3>
 
-<<div align="center">
+<div align="center">
     <div style="background-color: #0f0f0f; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px #00ffcc; display: inline-block;">
       <h2 style="color: #00ffcc; font-family: 'Courier New', Courier, monospace;"></h2>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker Vibes" style="border-radius: 10px; border: 2px solid #00ffcc; margin-top: 10px;" />
@@ -40,7 +40,7 @@
                 🌐 <strong>My Portfolio Website:</strong> <a href="https://chandangupta7143.github.io/PORTFOLIO/" target="_blank" style="color: #ffcc00; text-decoration: none; font-weight: bold;">Check it out here</a> — Experience my projects and ideas brought to life.
             </li>
            
-        </ul>
+        
         
       
   
