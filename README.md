@@ -1,12 +1,12 @@
 <h1 align="center">🚀 Welcome to the Terminal of Chandan Gupta</h1>
-<h3 align="center">A Curious Coder | Frontend  Devloper | Java & C++ Builder | Cybersecurity Explorer | DSA Enthusiast</h3>
+<h3 align="center">A Curious Coder | Java Full Stack Devloper | Java & C++ Builder | Cybersecurity Explorer | DSA Enthusiast</h3>
 
 <div align="center">
     <div style="background-color: #0f0f0f; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px #00ffcc; display: inline-block;">
       <h2 style="color: #00ffcc; font-family: 'Courier New', Courier, monospace;"></h2>
       <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Hacker Vibes" style="border-radius: 10px; border: 2px solid #00ffcc; margin-top: 10px;" />
       <p style="color: #cccccc; font-family: 'Courier New', Courier, monospace; margin-top: 15px;">
-        I don’t just write code... I **defend**, I **detect**, I **develop**.<br />
+        I don’t just write code... I defend, I detect, I develop.<br />
         Frontend. Backend. Cybersecurity. All in one terminal. ⚔️
       </p>
     </div>
