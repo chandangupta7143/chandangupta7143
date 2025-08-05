@@ -1,5 +1,5 @@
 <h1 align="center">🚀 Welcome to the Terminal of Chandan Gupta</h1>
-<h3 align="center">A Curious Coder | Java Full Stack Devloper | Java & C++ Builder | Cybersecurity Explorer | DSA Enthusiast</h3>
+<h3 align="center"> Java Full Stack Devloper | DSA Enthusiast | Java & C++ Builder | Cybersecurity Explorer </h3>
 
 <div align="center">
     <div style="background-color: #0f0f0f; padding: 20px; border-radius: 15px; box-shadow: 0 0 15px #00ffcc; display: inline-block;">
