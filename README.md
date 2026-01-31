@@ -96,10 +96,7 @@ and improving consistently through practice and real-world projects.
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangupta7143&theme=tokyonight" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=chandangupta7143&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chandangupta7143&layout=compact&theme=tokyonight" width="48%" />
-</p>
+
 
 ---
 
