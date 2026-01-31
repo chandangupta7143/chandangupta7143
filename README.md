@@ -88,17 +88,7 @@ and improving consistently through practice and real-world projects.
 - Build **production-quality applications**
 - Improve **communication and technical clarity**
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangupta7143&theme=tokyonight" />
-</p>
-
-
-
----
 
 ## 🌐 Connect With Me
 
