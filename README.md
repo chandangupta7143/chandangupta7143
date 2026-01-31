@@ -11,7 +11,7 @@ frontend engineering, backend logic, and problem solving.
 
 ---
 
-## 👋 About Me
+## About Me
 
 I’m **Chandan Gupta**, a Computer Science undergraduate and an aspiring  
 **Full Stack Developer** with a solid foundation in **Data Structures & Algorithms**
@@ -25,12 +25,12 @@ and improving consistently through practice and real-world projects.
 - 💻 Focused on **Frontend + Backend integration**
 - 🚀 Preparing for **Full Stack / Java Developer roles**
 
-🔗 **Portfolio Website**  
+ **Portfolio Website**  
 👉 https://chandan-portfolio-theta.vercel.app/
 
 ---
 
-## 🧩 Core Focus Areas
+## Core Focus Areas
 
 - Full Stack Web Development (Frontend → Backend → Database)
 - Data Structures & Algorithms (placement-oriented)
@@ -40,9 +40,9 @@ and improving consistently through practice and real-world projects.
 
 
 ---
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 🚀 Full Stack Development (Primary)
+### Full Stack Development (Primary)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html" />
   <img src="https://skillicons.dev/icons?i=css" />
@@ -53,7 +53,7 @@ and improving consistently through practice and real-world projects.
 
 ---
 
-### ⚙️ Backend Development (Java Ecosystem)
+### Backend Development (Java Ecosystem)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java" />
   <img src="https://skillicons.dev/icons?i=spring" />
@@ -63,7 +63,7 @@ and improving consistently through practice and real-world projects.
 
 ---
 
-### 🧠 Data Structures & Algorithms
+### Data Structures & Algorithms
 <p align="center">
   <img src="https://skillicons.dev/icons?i=java,cpp" />
 </p>
@@ -81,7 +81,7 @@ and improving consistently through practice and real-world projects.
 
 ---
 
-## 🎯 Current Goals
+## Current Goals
 
 - Become a strong **Full Stack Engineer**
 - Master **DSA using Java & C++**
@@ -90,7 +90,7 @@ and improving consistently through practice and real-world projects.
 
 
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://linkedin.com/in/chandan-gupta7143">
