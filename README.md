@@ -1,7 +1,7 @@
 <h1 align="center">Chandan Gupta</h1>
 
 <h3 align="center">
-Java Full Stack Devloper | DSA Enthusiast | Java & C++ Builder 
+Full Stack Devloper | DSA Enthusiast | Java & C++ Builder 
 </h3>
 
 <p align="center">
