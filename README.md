@@ -26,7 +26,7 @@ and improving consistently through practice and real-world projects.
 - 🚀 Preparing for **Full Stack / Java Developer roles**
 
 🔗 **Portfolio Website**  
-👉 https://chandangupta7143.github.io/PORTFOLIO/
+👉 https://chandan-portfolio-theta.vercel.app/
 
 ---
 
@@ -38,18 +38,27 @@ and improving consistently through practice and real-world projects.
 
 ---
 
+
+---
 ## 🛠️ Tech Stack
 
 ### 🚀 Full Stack Development (Primary)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=css" />
+  <img src="https://skillicons.dev/icons?i=tailwind" />
+  <img src="https://skillicons.dev/icons?i=js" />
+  <img src="https://skillicons.dev/icons?i=react" />
 </p>
 
 ---
 
-### ⚙️ Backend Development
+### ⚙️ Backend Development (Java Ecosystem)
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql" />
+  <img src="https://skillicons.dev/icons?i=java" />
+  <img src="https://skillicons.dev/icons?i=spring" />
+  <img src="https://skillicons.dev/icons?i=postman" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
 </p>
 
 ---
@@ -65,6 +74,10 @@ and improving consistently through practice and real-world projects.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,linux" />
 </p>
+
+
+
+
 
 ---
 
