@@ -10,7 +10,6 @@ frontend engineering, backend logic, and problem solving.
 </p>
 
 ---
-
 ## About Me
 
 I’m **Chandan Gupta**, a Computer Science undergraduate and an aspiring  
