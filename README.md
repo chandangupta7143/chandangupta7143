@@ -83,7 +83,7 @@ and improving consistently through practice and real-world projects.
 ## Current Goals
 
 - Become a strong **Full Stack Engineer**
-- Master **DSA using Java & C++**
+- Master **DSA using Java*
 - Build **production-quality applications**
 - Improve **communication and technical clarity**
 
