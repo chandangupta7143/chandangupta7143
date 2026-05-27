@@ -257,15 +257,6 @@ JWT Authentication • REST APIs • MySQL
 
 ---
 
-# 📈 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=chandangupta7143&theme=github-dark-blue&hide_border=true"/>
-
-</div>
-
----
 
 # 🌐 CONNECT
 
