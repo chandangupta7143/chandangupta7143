@@ -39,9 +39,7 @@ Passionate about:
 
 </a>
 
-<br/><br/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=1000&lines=Full+Stack+Projects;Secure+Backend+Architectures;Modern+Frontend+Engineering;Production-Grade+Applications"/>
 
 </div>
 
